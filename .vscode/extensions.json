@@ -1,38 +1,22 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
-    "antfu.browse-lite",
-    "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
-    "antfu.vite",
-    "antfu.where-am-i",
-    "antfu.open-in-github-button",
-    "lokalise.i18n-ally",
-
     // themes & icons
-    "antfu.icons-carbon",
-    "antfu.theme-vitesse",
-    "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
-    "Catppuccin.catppuccin-vsc-icons",
-
-    // life savers!
+    "catppuccin.catppuccin-vsc",
+    "vscode-great-icons.vscode-great-icons",
+    
+    // MUST HAVE!
     "dbaeumer.vscode-eslint",
-    "Vue.volar",
     "GitHub.copilot",
+    "yoavbls.pretty-ts-errors",
     "usernamehw.errorlens",
     "streetsidesoftware.code-spell-checker",
-
-    // up to you
     "eamodio.gitlens",
-    "EditorConfig.EditorConfig",
-    "github.vscode-github-actions",
-    "GitHub.vscode-pull-request-github",
+    
+    "Vue.volar",
+    "yzhang.markdown-all-in-one",
     "johnsoncodehk.vscode-tsconfig-helper",
-    "mpontus.tab-cycle",
     "naumovs.color-highlight",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "wayou.vscode-todo-highlight",
+    "tamasfe.even-better-toml",
   ]
 }
